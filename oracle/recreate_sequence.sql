@@ -1,0 +1,21 @@
+DROP SEQUENCE person_seq;
+DROP SEQUENCE senator_seq;
+DROP SEQUENCE app_user_seq;
+
+CREATE SEQUENCE person_seq
+  START WITH     1
+  INCREMENT BY   1
+  NOCACHE
+  NOCYCLE;
+
+CREATE SEQUENCE senator_seq
+  START WITH     1
+  INCREMENT BY   1
+  NOCACHE
+  NOCYCLE;
+
+CREATE SEQUENCE app_user_seq
+  START WITH     1
+  INCREMENT BY   1
+  NOCACHE
+  NOCYCLE;

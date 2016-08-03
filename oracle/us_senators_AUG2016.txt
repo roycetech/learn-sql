@@ -1,0 +1,100 @@
+'Alabama, Richard Shelby, 1934-05-06, 3
+'Alabama, Jeff Sessions, 1946-12-24, 2
+'Alaska, Lisa Murkowski, 1957-05-22, 3
+'Alaska, Dan Sullivan, 1964-11-13, 2
+'Arizona, John McCain, 1936-08-29, 3
+'Arizona, Jeff Flake, 1962-12-31, 1
+'Arkansas, John Boozman, 1950-12-10, 3
+'Arkansas, Tom Cotton, 1977-05-13, 2
+'California, Dianne Feinstein, 1933-06-22, 1
+'California, Barbara Boxer, 1940-11-11, 3
+'Colorado, Michael Bennet, 1964-11-28, 3
+'Colorado, Cory Gardner, 1974-08-22, 2
+'Connecticut, Richard Blumenthal, 1946-02-13, 3
+'Connecticut, Chris Murphy, 1973-08-03, 1
+'Delaware, Tom Carper, 1947-01-23, 1
+'Delaware, Chris Coons, 1963-09-09, 2
+'Florida, Bill Nelson, 1942-09-29, 1
+'Florida, Marco Rubio, 1971-05-28, 3
+'Georgia, Johnny Isakson, 1944-12-28, 3
+'Georgia, David Perdue, 1949-12-10, 2
+'Hawaii, Brian Schatz, 1972-10-20, 3
+'Hawaii, Mazie Hirono, 1947-11-03, 1
+'Idaho, Mike Crapo, 1951-05-20, 3
+'Idaho, Jim Risch, 1943-05-03, 2
+'Illinois, Dick Durbin, 1944-11-21, 2
+'Illinois, Mark Kirk, 1959-09-15, 3
+'Indiana, Dan Coats, 1943-05-16, 3
+'Indiana, Joe Donnelly, 1955-09-29, 1
+'Iowa, Chuck Grassley, 1933-09-17, 3
+'Iowa, Joni Ernst, 1970-07-01, 2
+'Kansas, Pat Roberts, 1936-04-20, 2
+'Kansas, Jerry Moran, 1954-05-29, 3
+'Kentucky, Mitch McConnell, 1942-02-20, 2
+'Kentucky, Rand Paul, 1963-01-07, 3
+'Louisiana, David Vitter, 1961-05-03, 3
+'Louisiana, Bill Cassidy, 1957-09-28, 2
+'Maine, Susan Collins, 1952-12-07, 2
+'Maine, Angus King, 1944-03-31, 1
+'Maryland, Barbara Mikulski, 1936-07-20, 3
+'Maryland, Ben Cardin, 1943-10-05, 1
+'Massachusetts, Elizabeth Warren, 1949-06-22, 1
+'Massachusetts, Ed Markey, 1946-07-11, 2
+'Michigan, Debbie Stabenow, 1950-04-29, 1
+'Michigan, Gary Peters, 1958-12-01, 2
+'Minnesota, Amy Klobuchar, 1960-05-25, 1
+'Minnesota, Al Franken, 1951-05-21, 2
+'Mississippi, Thad Cochran, 1937-12-07, 2
+'Mississippi, Roger Wicker, 1951-07-05, 1
+'Missouri, Claire McCaskill, 1953-07-24, 1
+'Missouri, Roy Blunt, 1950-01-10, 3
+'Montana, Jon Tester, 1956-08-21, 1
+'Montana, Steve Daines, 1962-08-20, 2
+'Nebraska, Deb Fischer, 1951-03-01, 1
+'Nebraska, Ben Sasse, 1972-02-22, 2
+'Nevada, Harry Reid, 1939-12-02, 3
+'Nevada, Dean Heller, 1960-05-10, 1
+'New Hampshire, Jeanne Shaheen, 1947-01-28, 2
+'New Hampshire, Kelly Ayotte, 1968-06-27, 3
+'New Jersey, Bob Menendez, 1954-01-01, 1
+'New Jersey, Cory Booker, 1969-04-22, 2
+'New Mexico, Tom Udall, 1948-05-18, 2
+'New Mexico, Martin Heinrich, 1971-10-17, 1
+'New York, Chuck Schumer, 1950-11-23, 3
+'New York, Kirsten Gillibrand, 1966-12-09, 1
+'North Carolina, Richard Burr, 1955-11-30, 3
+'North Carolina, Thom Tillis, 1960-08-30, 2
+'North Dakota, John Hoeven, 1957-03-13, 3
+'North Dakota, Heidi Heitkamp, 1955-10-30, 1
+'Ohio, Sherrod Brown, 1952-11-09, 1
+'Ohio, Rob Portman, 1955-12-19, 3
+'Oklahoma, Jim Inhofe, 1934-11-17, 2
+'Oklahoma, James Lankford, 1968-03-04, 3
+'Oregon, Ron Wyden, 1949-05-03, 3
+'Oregon, Jeff Merkley, 1956-10-24, 2
+'Pennsylvania, Bob Casey, 1960-04-13, 1
+'Pennsylvania, Pat Toomey, 1961-11-17, 3
+'Rhode Island, Jack Reed, 1949-11-12, 2
+'Rhode Island, Sheldon Whitehouse, 1955-10-20, 1
+'South Carolina, Lindsey Graham, 1955-07-09, 2
+'South Carolina, Tim Scott, 1965-11-19, 3
+'South Dakota, John Thune, 1961-01-07, 3
+'South Dakota, Mike Rounds, 1954-10-24, 2
+'Tennessee, Lamar Alexander, 1940-07-03, 2
+'Tennessee, Bob Corker, 1952-08-24, 1
+'Texas, John Cornyn, 1952-02-02, 2
+'Texas, Ted Cruz, 1970-12-22, 1
+'Utah, Orrin Hatch, 1934-03-22, 1
+'Utah, Mike Lee, 1971-06-04, 3
+'Vermont, Patrick Leahy, 1940-03-31, 3
+'Vermont, Bernie Sanders, 1941-09-08, 1
+'Virginia, Mark Warner, 1954-12-15, 2
+'Virginia, Tim Kaine, 1958-02-26, 1
+'Washington, Patty Murray, 1950-10-11, 3
+'Washington, Maria Cantwell, 1958-10-13, 1
+'West Virginia, Joe Manchin, 1947-08-24, 1
+'West Virginia, Shelley Moore Capito, 1953-11-26, 2
+'Wisconsin, Ron Johnson, 1955-04-08, 3
+'Wisconsin, Tammy Baldwin, 1962-02-11, 1
+'Wyoming, Mike Enzi, 1944-02-01, 2
+'Wyoming, John Barrasso, 1952-07-21, 1
